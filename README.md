@@ -99,8 +99,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/JeudyRobles/JeudyRobles/output/snake.svg" alt="Snake animation" />
-
-###
-
 Last Edited 8/29/2024
