@@ -13,7 +13,30 @@
 
 ###
 
-<p align="left">I'm a Student of Instituto Nacional De Aprendizaje (INA), Costa Rica. Still in the process of learning in the world of Web Development<br>🔭 I’m currently looking for internship<br><br>🌱 I’m currently learning JavaScript and history<br><br>❓ You can Email Me Through Here<br><br>⚡ Fun fact: I like to read a lot of manga (^///^)</p>
+<p align="left">🌟
+🎓 Graduated from Instituto Nacional de Aprendizaje (INA)
+I recently completed my studies at the prestigious Instituto Nacional de Aprendizaje (INA) in Costa Rica, where I gained a solid foundation in web development and programming principles. Now, I'm eager to take my skills to the next level through real-world experience.
+
+💻 Aspiring Web Developer | JavaScript Enthusiast
+I specialize in front-end and back-end technologies, with a strong focus on JavaScript. I'm passionate about creating dynamic, user-friendly web applications that solve real-world problems. Currently, I'm deepening my knowledge of modern frameworks and libraries to enhance my development skills.
+
+🎯 Open to Internship Opportunities
+I’m actively seeking an internship or entry-level position where I can contribute to meaningful projects, collaborate with talented teams, and continue growing as a developer. If you're looking for someone eager to learn, adapt, and deliver results, let's connect!
+
+📚 Currently Learning:
+
+Advanced JavaScript (ES6+)
+Modern Web Development Frameworks (React, Node.js)
+History (because understanding the past helps us build a better future!)
+
+📧 Contact Me:
+Feel free to reach out via email: jeudyjr@outlook.com
+Let’s discuss potential opportunities, collaborations, or just share knowledge!
+
+🎨 Fun Fact:
+When I'm not coding, you'll probably find me immersed in the world of manga. Reading manga is not only a hobby but also a source of inspiration for storytelling and creativity. (^///^)
+
+ (^///^)</p>
 
 ###
 
@@ -25,6 +48,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -52,7 +77,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="adobephotoshop logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobexd/FF61F6" height="40" alt="xd logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" height="40" alt="adobexd logo"/>
   <img width="12" />
   <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
 </div>
@@ -80,16 +105,6 @@
 
 ###
 
-<h2 align="left">I'm listen</h2>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/1qm1ftxze9r9tmvwmuf49q6sy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=1qm1ftxze9r9tmvwmuf49q6sy&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
 ###
 
 <div align="center">
@@ -99,4 +114,4 @@
 
 ###
 
-Last Edited 8/29/2024
+Last Edited 2/13/2025
