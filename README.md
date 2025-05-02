@@ -14,29 +14,13 @@
 ###
 
 <p align="left">🌟
-🎓 Graduated from Instituto Nacional de Aprendizaje (INA)
-I recently completed my studies at the prestigious Instituto Nacional de Aprendizaje (INA) in Costa Rica, where I gained a solid foundation in web development and programming principles. Now, I'm eager to take my skills to the next level through real-world experience.
-
-💻 Aspiring Web Developer | JavaScript Enthusiast
-I specialize in front-end and back-end technologies, with a strong focus on JavaScript. I'm passionate about creating dynamic, user-friendly web applications that solve real-world problems. Currently, I'm deepening my knowledge of modern frameworks and libraries to enhance my development skills.
-
-🎯 Open to Internship Opportunities
-I’m actively seeking an internship or entry-level position where I can contribute to meaningful projects, collaborate with talented teams, and continue growing as a developer. If you're looking for someone eager to learn, adapt, and deliver results, let's connect!
-
-📚 Currently Learning:
-
-Advanced JavaScript (ES6+)
-Modern Web Development Frameworks (React, Node.js)
-History (because understanding the past helps us build a better future!)
-
-📧 Contact Me:
-Feel free to reach out via email: jeudyjr@outlook.com
-Let’s discuss potential opportunities, collaborations, or just share knowledge!
-
-🎨 Fun Fact:
-When I'm not coding, you'll probably find me immersed in the world of manga. Reading manga is not only a hobby but also a source of inspiration for storytelling and creativity. (^///^)
-
- (^///^)</p>
+I'm Jeudy, a 21-year-old Web Developer from Costa Rica with a passion for programming and design.
+Specialized in front-end technologies, with a strong focus on JavaScript, I thrive on creating intuitive and visually appealing web experiences. My goal is to develop dynamic applications that solve real-world problems while ensuring a seamless and engaging user experience.
+I'm actively looking for an internship or entry-level position where I can contribute my skills, collaborate with talented teams, and grow as a developer. If you're looking for someone eager to learn, adapt, and deliver results, let's connect!
+</p>
+<p>
+📧 Contact Me: jeudyjr@outlook.com
+</p>
 
 ###
 
