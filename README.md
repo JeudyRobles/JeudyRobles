@@ -14,7 +14,7 @@
 ###
 
 <p align="left">🌟
-I'm Jeudy, a 21-year-old Web Developer from Costa Rica with a passion for programming and design.
+I'm Jeudy, a 22-year-old Web Developer from Costa Rica with a passion for programming and design.
 Specialized in front-end technologies, with a strong focus on JavaScript, I thrive on creating intuitive and visually appealing web experiences. My goal is to develop dynamic applications that solve real-world problems while ensuring a seamless and engaging user experience.
 I'm actively looking for an internship or entry-level position where I can contribute my skills, collaborate with talented teams, and grow as a developer. If you're looking for someone eager to learn, adapt, and deliver results, let's connect!
 </p>
@@ -94,3 +94,4 @@ I'm actively looking for an internship or entry-level position where I can contr
 ###
 
 Last Edited 2/13/2025
+
